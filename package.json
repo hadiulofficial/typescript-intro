@@ -1,0 +1,23 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadiul-Islam/typescript-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hadiul-Islam/typescript-intro/issues"
+  },
+  "homepage": "https://github.com/Hadiul-Islam/typescript-intro#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
